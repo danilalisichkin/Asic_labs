@@ -1,0 +1,4 @@
+﻿  asic.cpp
+C:\Users\danil\OneDrive\Рабочий стол\lab_6\asic\asic\asic.cpp(2,9): warning C4081: требуется "идентификатор"; обнаружен "inline"
+C:\Users\danil\OneDrive\Рабочий стол\lab_6\asic\asic\asic.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  asic.vcxproj -> C:\Users\danil\OneDrive\Рабочий стол\lab_6\asic\Debug\asic.exe

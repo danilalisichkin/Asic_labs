@@ -1,0 +1,86 @@
+﻿  asic.cpp
+C:\Users\danil\source\repos\asic\asic\asic.cpp(3,9): warning C4081: требуется "идентификатор"; обнаружен "inline"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(20,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\danil\source\repos\asic\asic\asic.cpp(30,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\danil\source\repos\asic\asic\asic.cpp(31,7): error C2065: ecx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(31,10): error C3192: синтаксическая ошибка: "^" не является префиксным оператором (возможно, имелось в виду "*"?)
+C:\Users\danil\source\repos\asic\asic\asic.cpp(31,12): error C2065: ecx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(32,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(32,3): error C2065: mov: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(32,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(32,7): error C2065: cx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(34,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(34,3): error C2065: mov: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(34,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(34,7): error C2065: edx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(36,2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "maxEl"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(37,3): error C2065: mov: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(37,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(37,7): error C2065: esi: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(37,12): error C2065: edx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(38,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(38,4): error C2065: mov: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(38,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(38,8): error C2065: cx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(39,8): error C2065: ebx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(39,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(41,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "noe"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(42,3): error C2065: lodsb: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(43,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(43,4): error C2065: cmp: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(43,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(43,8): error C2065: al: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(43,12): error C2065: bh: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(44,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jg"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(44,4): error C2065: jg: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(44,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "maxi"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(44,7): error C2065: maxi: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(45,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(45,4): error C2065: jmp: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(45,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "noe"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(45,8): error C2065: noe: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(46,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "maxi"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(47,3): error C2065: mov: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(47,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bh"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(47,7): error C2065: bh: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(47,11): error C2065: al: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(48,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mol"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(49,3): error C2065: loop: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(49,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "noe"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(49,8): error C2065: noe: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(51,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(51,4): error C2065: fld: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(51,8): error C2065: ebx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(52,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(52,4): error C2065: fld: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(52,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(54,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "start"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(56,3): error C2065: fadd: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(56,8): error C2065: edx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(57,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(57,4): error C2065: add: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(57,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(57,8): error C2065: edx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(59,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(59,4): error C2065: cmp: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(59,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(59,8): error C2065: ecx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(60,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dec"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(60,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(60,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\danil\source\repos\asic\asic\asic.cpp(60,8): error C2065: cx: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(61,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jne"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(61,4): error C2065: jne: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(61,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "start"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(61,8): error C2065: start: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(63,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fdiv"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(63,4): error C2065: fdiv: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(63,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(63,9): error C3861: st: идентификатор не найден
+C:\Users\danil\source\repos\asic\asic\asic.cpp(63,16): error C3861: st: идентификатор не найден
+C:\Users\danil\source\repos\asic\asic\asic.cpp(64,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fst"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(64,4): error C2065: fst: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(64,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(66,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fwait"
+C:\Users\danil\source\repos\asic\asic\asic.cpp(66,4): error C2065: fwait: необъявленный идентификатор
+C:\Users\danil\source\repos\asic\asic\asic.cpp(67,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
